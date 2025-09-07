@@ -1,6 +1,6 @@
-# Solidity Audit Report Findings — by 0xGutzzz
+# Audit Report Findings — by 0xGutzzz
 
-Welcome to my Solidity audit findings repository! 🛡️  
+Welcome to my smart contracts security audit findings repository! 🛡️  
 I’m **0xGutzzz**, and this repo serves as a collection of vulnerabilities and insights I’ve gathered while auditing smart contracts. 
 
 ---
